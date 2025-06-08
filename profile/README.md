@@ -1,12 +1,12 @@
-# 🚻 Bathroom Buddy
+# 🚻 Where2Go
 
-**Bathroom Buddy** is a community-powered project on a mission to make finding a clean, reliable bathroom easier for everyone.
+**Where2Go** is a community-powered project on a mission to make finding a clean, reliable bathroom easier for everyone.
 
 ## 💡 What We’re Building
 
 We believe everyone deserves access to restrooms that meet their needs — whether that means a spotless stall, a changing table for your toddler, a wheelchair-accessible entrance, or just peace of mind on a road trip.
 
-Bathroom Buddy is a mobile-first platform that lets users:
+Where2Go is a mobile-first platform that lets users:
 
 - 🧼 Find public restrooms near them
 - ⭐ Leave ratings and reviews based on real experiences
@@ -18,13 +18,13 @@ Clean bathrooms shouldn’t be a gamble. With your help, we’re crowdsourcing t
 
 ## 🌍 Why It Matters
 
-From families and travelers to commuters and caregivers, we all rely on public restrooms more than we realize. But until now, finding a restroom you can actually trust has been a matter of luck. Bathroom Buddy changes that by putting accurate, community-sourced info in your pocket.
+From families and travelers to commuters and caregivers, we all rely on public restrooms more than we realize. But until now, finding a restroom you can actually trust has been a matter of luck. Where2Go changes that by putting accurate, community-sourced info in your pocket.
 
 Together, we're making public spaces more usable, inclusive, and dignified for everyone.
 
 ## 🙋‍♀️ Meet the Team
 
-Bathroom Buddy was created by a small group of engineers, designers, and bathroom realists who were tired of rolling the dice on public restrooms. We’re building this in our spare time and growing it with purpose.
+Where2Go was created by a small group of engineers, designers, and bathroom realists who were tired of rolling the dice on public restrooms. We’re building this in our spare time and growing it with purpose.
 
 - [@Andrew-Barker](https://github.com/Andrew-Barker) — Founder & Lead Engineer  
 - [@vccunningham](https://github.com/vccunningham) — Software Engineer  
